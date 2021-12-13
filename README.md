@@ -7,6 +7,22 @@ Treasure of Nadia v1.0112版本的汉化程序，文档
 
 
 
+### steam版本问题
+
+1. （2021/12/13 15点）
+
+   steam版本不是最终v1.0112版，是比较落后的版本。
+
+   ----------我看到有关游戏版本更新的讨论，引用如下--------------
+
+   Kamote  21 小时以前 
+   Any updates?
+   Will there be an update soon?
+
+   tictac 16 小时以前     
+
+   The final version was released in their Patreon site. The steam version will be updated to the final version soon with steam special bonus content.
+
 ### 程序流程
 
 - 使用正则从`www/data` 获取台词，形成`map`
@@ -15,13 +31,19 @@ Treasure of Nadia v1.0112版本的汉化程序，文档
 - 保存到本地`*.json.txt`
 - 相同正则替换`www/data`为中文
 
+
+
 ### translate.js
 
 获取`www/data`中 `*.json`中的台词并翻译，保存到`map`文件夹中
 
+
+
 ### translateItem.js
 
 获取`www/data`中`items.json`中的物品名并翻译，保存到`itemMap`文件夹中
+
+
 
 ### translateF.js
 
@@ -30,6 +52,8 @@ Treasure of Nadia v1.0112版本的汉化程序，文档
 需要手动提取出特征文件并手动翻译形成`*.txt `，由程序进行美化（添加空格保证能够换行）
 
 为了保证安全性，一定要在`translate.js`和`translateItem.js`替换后再执行
+
+
 
 ### 注意
 
