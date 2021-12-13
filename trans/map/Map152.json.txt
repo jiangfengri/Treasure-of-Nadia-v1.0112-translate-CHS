@@ -1,0 +1,9 @@
+{"0=Chest Key]":"0=箱子钥匙]",
+"1=The rock here looks weak and crumbly.]":"1=此处的岩石看 起来很脆弱且易碎 。]",
+"2=Chest Key]":"2=箱子钥匙]",
+"3=Teddy Bear]":"3=泰迪熊]",
+"4=Rocks block the way. I wonder if I can break through.]":"4=石头挡住了路 。我想知道我是否 能突破]",
+"5=The pickaxe is not strong enough to break through all this hard stone.]":"5=鹤嘴锄不够结 实，无法穿透所有 这些坚硬的石头。 ]",
+"6=Rocks block the way. I wonder if I can break through.]":"6=石头挡住了路 。我想知道我是否 能突破]",
+"7=The pickaxe is not strong enough to break through all this hard stone.]":"7=鹤嘴锄不够结 实，无法穿透所有 这些坚硬的石头。 ]",
+"8=I can almost jump across, but not quite.]":"8=我几乎可以跳 过去，但不完全可 以。]"}

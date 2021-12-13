@@ -1,0 +1,13 @@
+{"0=This wall looks different. I wonder if I can break through.]":"0=这面墙看起来 不一样。我想知道 我是否能突破]",
+"1=The pickaxe is not strong enough to break through all this hard stone.]":"1=鹤嘴锄不够结 实，无法穿透所有 这些坚硬的石头。 ]",
+"2=This wall looks different. I wonder if I can break through.]":"2=这面墙看起来 不一样。我想知道 我是否能突破]",
+"3=The pickaxe is not strong enough to break through all this hard stone.]":"3=鹤嘴锄不够结 实，无法穿透所有 这些坚硬的石头。 ]",
+"4=This wall looks different. I wonder if I can break through.]":"4=这面墙看起来 不一样。我想知道 我是否能突破]",
+"5=The pickaxe is not strong enough to break through all this hard stone.]":"5=鹤嘴锄不够结 实，无法穿透所有 这些坚硬的石头。 ]",
+"6=This wall looks different. I wonder if I can break through.]":"6=这面墙看起来 不一样。我想知道 我是否能突破]",
+"7=The pickaxe is not strong enough to break through all this hard stone.]":"7=鹤嘴锄不够结 实，无法穿透所有 这些坚硬的石头。 ]",
+"8=Crypt Key]":"8=地下室钥匙]",
+"9=Jessica]":"9=Jessica]",
+"10=Pussy Sex]":"10=做爱]",
+"11=This cannon is in better condition than the others. I wonder if it’ll fire.]":"11=这门大炮的 状况比其他大炮好 。我不知道它会不 会着火]",
+"12=Old Map]":"12=旧地图]"}

@@ -1,0 +1,2 @@
+{"0=Evie's Profile]":"0=Evie的个 人资料]",
+"1=You can now find my character profile in your album.]":"1=您现在可以在 相册中找到我的角 色配置文件。]"}

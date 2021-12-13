@@ -1,0 +1,331 @@
+{"CommonEvents.json":{"June 14th 1585 ":
+"1585年6月14日",
+"Sickness has befallen our ship and the relentless pursuit of the shamans has our spirits low. ":
+"疾病降临在我们的 船上，萨满们的不 懈追求让我们的情 绪低落。",
+"There are whispers among the crew that our new leader has gone mad. A mutiny may be in our future.":
+"船员之间有传言说 我们的新领导人疯 了。我们的未来可 能会发生兵变。",
+"Take Kayak License Exam ":
+"参加皮划艇执照考 试",
+"Kayaking Exam":
+"皮划艇考试",
+"To receive credit for your exam please return this exam to your local state park representative after completion.":
+"要获得考试的学分 ，请在完成后将此 考试交还给您当地 的州立公园代表。 ",
+"Which of these is the least important to have while kayaking?":
+"划皮划艇时，哪些 最不重要？",
+"Whistle":
+"口哨",
+"Sunscreen":
+"Sunscreen",
+"Life Jacket":
+"救生衣",
+"Paddle":
+"桨",
+"Which of these conditions should you avoid when planning to kayak offshore in Cape Vedra?":
+"计划在韦德拉角海 上划皮划艇时，您 应该避免哪些情况 ？",
+"Winds from the east at 20+ knots":
+"东风以20多节的 速度吹来",
+"Winds from the north at 10+ knots":
+"北风以10多节的 速度吹来",
+"Winds from the west at 15+ knots":
+"西风以15节以上 的速度吹来",
+"Winds from the south at 5+ knots":
+"南风以5节以上的 速度吹来",
+"Which of these items is illegal to have on a kayak in Cape Vedra?":
+"在韦德拉角的皮划 艇上携带以下哪些 物品是非法的？",
+"Machine Gun":
+"机枪",
+"Nuclear Waste":
+"核废料",
+"Landmine":
+"地雷",
+"Beer":
+"啤酒",
+"If a large boat approaches, which side of the river should you yield on?":
+"如果一艘大船靠近 ，你应该在河的哪 一边让步？",
+"Am I the sole survivor of the Aakab Kaako or have others escaped this cave? It was a mistake coming here. We were led to our deaths by a fool.":
+"我是Aakab Kaako的唯一幸 存者还是其他人逃 离了这个洞穴？来 这里是个错误。我 们被一个傻瓜引向 死亡。",
+"The true captain would never have allowed this to happen. Why did we come to this place? We should have turned and done battle with the shamans.":
+"真正的队长绝不会 允许这种事情发生 。我们为什么会来 到这个地方？我们 应该转身和萨满战 斗。",
+"Long live the pirate queen Nadia. Tonight we rain fire onto the city of Tikpak. Their fortune will soon be ours.":
+"海盗女王娜迪亚万 岁。今晚我们向提 帕克市开火。他们 的财产很快就会归 我们所有。",
+"Silver Talisman Crafting":
+"银护身符工艺",
+"Silver Talisman":
+"银护身符",
+"Gold Talisman Crafting":
+"金护身符工艺",
+"Gold Talisman":
+"金护身符",
+"Rock Bomb":
+"岩石炸弹",
+"Ant Killer":
+"蚂蚁杀手",
+"Rat Trap":
+"捕鼠器",
+"Chest Key":
+"箱子钥匙",
+"Grand Talisman Crafting":
+"大护身符工艺",
+"Grand Talisman":
+"大护身符",
+"Jasmine Massage Oil":
+"茉莉花按摩油",
+"Pirate Key":
+"海盗钥匙",
+"Royal Talisman":
+"皇家护身符",
+"Blow Dart":
+"吹镖",
+"Bedroom Key":
+"卧室钥匙"},"Map001.json":{"Magazine Article":
+"杂志文章",
+"The text of the article goes here. The text of the article goes here. The text of the article goes here. The text of the article goes here. The text of the article goes here. The text of the article goes here. ":
+"文章的正文在这里 。文章的正文在这 里。文章的正文在 这里。文章的正文 在这里。文章的正 文在这里。文章的 正文在这里。",
+"Title":
+"标题",
+"Text goes here":
+"文字在这里"},"Map003.json":{"Last will and testament of Doctor Idaho Johnson":
+"爱达荷·约翰逊的 遗嘱",
+"Dearest oncomers to my final resting place. ":
+"最亲爱的来者到我 最后的安息之地。 ",
+"I hope that this small cemetery, tucked away in the quaint town of Cape Vedra, is not too small for the crowds of admirers here to mourn my passing.":
+"我希望这个隐藏在 古色古香的维德拉 角小镇的小墓地， 不会太小，无法让 这里的众多崇拜者 哀悼我的逝世。",
+"I wish to pass my torch to a new adventurer and hereby bequeath everything to my son, \\N[1], with the hopes that he can continue the legacy of my name.":
+"我希望将我的火炬 传递给一位新的冒 险家，并在此将一 切遗赠给我的儿子 ，亨利，希望他能 延续我的名字。",
+"In all my time traveling the world I have met many beautiful women. It would be heartless of me to not include them in my will. ":
+"在我周游世界的所 有时间里，我遇到 了许多美丽的女人 。如果不将它们包 含在我的遗嘱中， 我将是无情的。",
+"To my son, \\N[1], I leave you my harem of beauties to add to your own collection.":
+"致我的儿子，亨利 ，我将我的后宫美 女留给您，以添加 到您自己的收藏中 。",
+"To all my rivals, I have included a photograph of my giant cock. Suck it!":
+"对于我的所有竞争 对手，我已经附上 了一张我的大公鸡 的照片。吸它！",
+"Sincerely, Idaho Johnson":
+"真挚的，爱达荷州 约翰逊"},"Map007.json":{"Rebuilding efforts continue":
+"重建工作仍在继续 ",
+"As the one year anniversary approaches of Hurricane Evelyn surrounding cities still struggle to overcome the damage.":
+"随着飓风伊夫林一 周年的临近，周边 城市仍在努力克服 破坏。",
+"Luckily Cape Vedra was spared from a direct hit.":
+"幸运的是，Cape Vedra没有 受到直接打击。"},"Map014.json":{"Dear \\N[1],":
+"亲爱的亨利，",
+"I hope you’re not disappointed with what I’ve left you.":
+"我希望你不会对我 留给你的东西感到 失望。",
+"I’ve spent the last few years searching for something called the Soul Crystal. I became obsessed with finding it and spent a lot of money hunting it down. ":
+"过去几年我一直在 寻找一种叫做灵魂 水晶的东西。我开 始痴迷于寻找它， 并花了很多钱来寻 找它。",
+"I made many enemies on the way and I’ve acquired a lot of debts. I leave you this note because I do not expect to make it through the night. They are coming for the Soul Crystal. ":
+"我在路上树了很多 敌人，也欠了很多 债。我给你留了这 张便条，因为我不 希望熬夜。他们是 为了灵魂水晶而来 。",
+"Yes \\N[1]. Your old man found the Soul Crystal! And I am leaving it to you.  ":
+"是的亨利。你老爸 找到了灵魂水晶！ 我把它留给你。",
+"But I cannot send the crystal with my belongings since they will certainly search for it there. ":
+"但是我不能把水晶 和我的东西一起寄 出去，因为他们肯 定会在那里寻找它 。",
+"Go find Diana. She is the curator at the library down the road. She’ll give you the next clue. ":
+"去找戴安娜。她是 路边图书馆的馆长 。她会给你下一个 线索。",
+"Sincerely,":
+"真挚地，",
+"Dad":
+"爸爸",
+"PS. I never got to bang Diana. She’s a tough nut to crack. ":
+"PS.我从来没有 撞击过戴安娜。她 是一个难以破解的 难题。"},"Map021.json":{"Don't forget to erase your passcode from the chalkboard after you memorize it.":
+"记住密码后，不要 忘记从黑板上擦除 密码。"},"Map024.json":{"The Cursed Arrival of the Spanish Fleet":
+"西班牙舰队的诅咒 到来",
+"The natives speak of boats coming from a far away land. Many of the traveler's met their end while others moved ashore to be lost among the population of natives.":
+"当地人说船只来自 遥远的土地。许多 旅行者死掉，而其 他人则搬到了岸上 ，在当地人中迷失 了方向。",
+"It wasn’t until years later that a successful voyage put Cape Vedra on the map as a prime port owned by Spain.":
+"直到几年后，一次 成功的航行才使韦 德拉角成为西班牙 拥有的主要港口。 ",
+"Kayaking Tips":
+"皮划艇技巧",
+"Here are some helpful tips to remember to keep you safe on the water...":
+"这里有一些有用的 提示，请记住，以 确保您在水上安全 ......",
+"The three most important things you need to remember to bring is a whistle, life jacket, and paddle.":
+"您需要记住携带的 三件最重要的东西 是哨子、救生衣和 桨。",
+"Never paddle out to sea with a 15 knots or greater wind at your back.":
+"切勿在背风为15 节或更大的情况下 划桨出海。",
+"Alcohol is never permitted while operating a kayak.":
+"操作皮划艇时绝不 允许饮酒。",
+"Kayakers in state park rivers must stay on the south side of the river when a larger boat is passing.":
+"当一艘更大的船经 过时，州立公园河 流中的皮划艇运动 员必须留在河的南 侧。"},"Map029.json":{"Silver Talisman Crafting":
+"银护身符工艺"},"Map043.json":{"Jade Shovel Crafting":
+"玉铲工艺"},"Map049.json":{"Stompin' Boots":
+"跺脚靴"},"Map050.json":{"Booty of the Night Fire Pirates":
+"夜火海贼团的战利 品",
+"By Merlin Daxeldor 1706":
+"梅林·达克塞尔多 1706",
+"For weeks the pirates sailed the coast plundering village after village. But alas no sign of Nadia. The city ripe with gold treasure escapes their grasp yet again.":
+"几个星期以来，海 盗们在海岸上航行 ，一个又一个村庄 掠夺。但可惜没有 纳迪亚的迹象。这 座充满黄金宝藏的 城市再次逃脱了他 们的掌握。"},"Map052.json":{"June 14th 1585 ":
+"1585年6月14日",
+"Sickness has befallen our ship and the relentless pursuit of the shamans has our spirits low. ":
+"疾病降临在我们的 船上，萨满们的不 懈追求让我们的情 绪低落。",
+"There are whispers among the crew that our new leader has gone mad. A mutiny may be in our future.":
+"船员之间有传言说 我们的新领导人疯 了。我们的未来可 能会发生兵变。"},"Map053.json":{"The First Church of Cambion 1786":
+"坎比恩第一教堂 1786",
+"Be born a son for the vessel is formed from his seed. And the son will keep strong an unbroken chain. His seed is the key to life unending.":
+"生下一个儿子，因 为容器是从他的种 子形成的。儿子将 保持强大的不间断 链条。他的种子是 生命永无止境的关 键。"},"Map054.json":{"Camera Repair":
+"相机维修"},"Map058.json":{"Note to self:":
+"自我提醒：",
+"Dont forget! You dropped your chest key on the beach, two paces WEST from the SOUTH red umbrella. ":
+"不要忘记！你把你 的箱子匙掉在沙滩 上，离南红伞向西 两步。",
+"You’ll need to buy a metal detector to find it.":
+"您需要购买金属探 测器才能找到它。 ",
+"Swift Shovel":
+"快速铲"},"Map060.json":{"Gold Talisman Crafting":
+"金护身符工艺"},"Map062.json":{"Chest Key":
+"箱子钥匙",
+"1 Peter 5:8":
+"1彼得5:8",
+"Be alert and of sober mind. Your demon enemy prowls around like a roaring lion looking for someone to devour.":
+"保持警觉和清醒的 头脑。你的恶魔敌 人像咆哮的狮子一 样四处游荡，寻找 可吞吃的人。"},"Map064.json":{"Pirate Shovel":
+"海盗铲"},"Map065.json":{"Rock Bomb":
+"岩石炸弹"},"Map066.json":{"The curse of the treasure of Nadia":
+"纳迪亚宝藏的诅咒 ",
+"The Tikpak’s wealth is said to be sealed with a curse that will age and decay any thief that were to take it. However, the rules of the curse are vague.":
+"据说提帕克人的财 富被诅咒封印，任 何偷走它的小偷都 会老化腐烂。然而 ，诅咒的规则是模 糊的。",
+"I believe that if someone were to steal the gold and profit from it, their fate would be sealed. But indirect profit may be the key.":
+"我相信，如果有人 偷了黄金并从中获 利，他们的命运就 会被封印。但间接 利润可能是关键。 ",
+"The night fire pirates are each given a symbol of their alliance. They wear it with pride and never remove it.":
+"夜火海盗每人都被 赋予了他们联盟的 象征。他们自豪地 戴着它，从不取下 它。",
+"Cape Vedra should be littered with these medallions if their entire crew was lost here.":
+"如果维德拉角的全 体船员都在这里失 踪，那么这些奖章 应该散落一地。",
+"Grand Talisman Crafting":
+"大护身符工艺"},"Map070.json":{"Hacking Tool":
+"黑客工具"},"Map072.json":{"Ant Killer":
+"蚂蚁杀手",
+"Go west, go north, upon entering the park.":
+"向西，向北，进入 公园。",
+"Behind the bushes is an orange spark.":
+"灌木丛后面是橙色 的火花。"},"Map074.json":{"Rat Trap":
+"捕鼠器"},"Map075.json":{"1586 Diego de la Cruz":
+"1586 迭戈·德拉克鲁斯",
+"The deal has been made. We now turn to the demonic to defeat death. What have we become? This isn't how it was supposed to go.":
+"交易已经达成。我 们现在转向恶魔以 击败死亡。我们变 成了什么？事情本 来不是这样的。",
+"South of the river and west in the park":
+"河以南，公园以西 ",
+"The rats ran away and there lays an orange spark.":
+"老鼠跑掉了，那里 有橙色的火花。"},"Map077.json":{"Concrete":
+"混凝土"},"Map085.json":{"Blow Dart":
+"吹镖"},"Map087.json":{"The woman from Saint Dame Church is quite rude. She startled me in the cemetery and I dropped my key. ":
+"圣女教堂的女人很 粗鲁。她在墓地里 把我吓了一跳，我 把钥匙掉了。",
+"I was under the palm tree when I dropped it.":
+"当我掉了它时，我 正在棕榈树下。"},"Map104.json":{"May 7th 1999":
+"1999年5月7日",
+"Two were killed last night in a boat accident off Estero Key.":
+"昨晚有两人在埃斯 特罗岛附近的一次 船难中丧生。",
+"The victims were reported to be Alice and Lucas Johansson, visitors from Sweden.":
+"据报道，遇难者是 来自瑞典的游客爱 丽丝和卢卡斯·约 翰逊。",
+"Police investigation reveals both were intoxicated when the boat ran into a shallow reef at high speed.":
+"警方调查显示，当 船高速驶入浅礁时 ，两人都喝醉了。 ",
+"The waters were stirred up after the storm, limiting visibility.":
+"风暴过后，海水被 搅动，能见度受到 限制。"},"Map109.json":{"Loaded Musket":
+"上膛的火枪"},"Map110.json":{"Pirate Key":
+"海盗钥匙",
+"There’s a half buried cannon bathed in sunlight,":
+"有半掩埋的大炮沐 浴在阳光下，",
+"at the foot of a cliff and an orange sparkle in sight.":
+"在悬崖脚下，一道 橙色的光芒映入眼 帘。"},"Map114.json":{"Rope Ladder":
+"绳梯"},"Map117.json":{"1587 Diego de la Cruz":
+"1587 迭戈·德拉克鲁斯",
+"Our brothers have split from us. They abandoned the search and began what they call the Church of Cambion. ":
+"我们的兄弟与我们 分裂了。他们放弃 了搜索，开始了他 们所谓的坎比恩教 堂。",
+"They are bringing demons into our world under the promise of life unending. But we will not turn to them and their delusion. ":
+"他们以永无止境的 承诺将恶魔带入我 们的世界。但我们 不会转向他们和他 们的错觉。",
+"I no longer fear death. Our search will likely end here.":
+"我不再害怕死亡。 我们的搜索很可能 会在这里结束。",
+"Jasmine Massage Oil":
+"茉莉花按摩油"},"Map120.json":{"Finding this orange spark can give one a headache.":
+"找到这个橙色的火 花会让一个人头疼 。",
+"Look in the cave room where you barrel trapped a snake.":
+"看看你用桶困住了 一条蛇的洞穴房间 。"},"Map125.json":{"1588 Diego de la Cruz":
+"1588 迭戈·德拉克鲁斯",
+"The Church of Cambion attacked us last night. We were accused of harboring their escaped virgin sacrifice.  ":
+"坎比恩教堂昨晚袭 击了我们。我们被 指控窝藏了他们逃 脱的处女祭品。",
+"The demonic spawn requires the body of a virgin, mane as dark as night, and a descendant of demons long forgotten.":
+"恶魔后裔需要处女 的身体，黑夜般的 鬃毛，以及早已被 遗忘的恶魔后裔。 ",
+"There is no everlasting life for them. Their minds are rotten. A devil they will bring into this world.":
+"他们没有永生。他 们的心已经腐烂了 。他们将带入这个 世界的恶魔。",
+"In a cave, by a torch, where a skeleton falls,":
+"在一个山洞里，在 火炬旁，骷髅坠落 的地方，",
+"find this hidden orange twinkle behind the cave walls.":
+"在洞穴墙壁后面找 到这个隐藏的橙色 闪光。"},"Map129.json":{"A good place to party but with no view of the sea,":
+"一个聚会的好地方 ，但没有海景，",
+"a grill for some cookin’ and a secret behind a tree.":
+"一个烧烤架，可以 做饭，还有一个树 后的秘密。",
+"Dehumidifier":
+"除湿机"},"Map130.json":{"Deadly Whip":
+"致命的鞭子"},"Map135.json":{"Instantly transport deep in the park,":
+"瞬间传送到公园深 处，",
+"A couple steps south and you're next to the mark.":
+"向南走几步，你就 在标记旁边。",
+"King's Shovel":
+"国王的铲子"},"Map136.json":{"Tomb Key":
+"墓穴钥匙"},"Map137.json":{"1588 Diego de la Cruz":
+"1588 迭戈·德拉克鲁斯",
+"In an ironic twist of fate, death has come early for us. I am the last survivor and I may not make it through the night. ":
+"具有讽刺意味的命 运转折，死亡对我 们来说来得太早了 。我是最后一个幸 存者，我可能无法 熬过夜晚。",
+"It is only now that I learn the Cave of Jaega goes deeper than we thought. But I feel too old and frail to search any longer.":
+"直到现在我才知道 Jaega洞穴比 我们想象的要深。 但我觉得自己太老 太虚弱，无法再搜 索了。",
+"How close was I?":
+"我离得有多近？",
+"Aloe Lotion":
+"芦荟乳液"},"Map142.json":{"A pile of rocks in an older sewer’s north juncture,":
+"旧下水道北口的一 堆石头，",
+"a wall to the west in which you can puncture.":
+"你可以凿破西边的 一堵墙。"},"Map143.json":{"Royal Talisman":
+"皇家护身符",
+"To find this orange twinkle you need eyes like a hawk,":
+"要找到这橙色的闪 光，你需要像鹰一 样的眼睛，",
+"go into the caves where goons were trapped by a rock.":
+"进入暴徒被岩石困 住的洞穴。"},"Map153.json":{"My body is weak and my hair is grey and thin. I do not have much longer to live.":
+"我的身体很虚弱， 我的头发又白又细 。我活不了多久了 。",
+"Was this Nadia’s plan? For us to die, cursed, and derelict in this strange land?":
+"这是纳迪亚的计划 吗？让我们在这片 陌生的土地上死去 ，被诅咒，被遗弃 ？",
+"Why did she bring us here?":
+"她为什么带我们来 这里？",
+"Golden Teddy":
+"金泰迪熊"},"Map154.json":{"Penetrating Oil":
+"渗透油"},"Map155.json":{"Hidden by time is this area’s theme,":
+"被时间隐藏的是这 个区域的主题，",
+"find a profile in a barrel by the stream.":
+"在溪流旁的桶中找 到个人资料。"},"Map163.json":{"Metal Ladder":
+"金属梯"},"Map171.json":{"Mystical Gas Mask":
+"神秘防毒面具"},"Map179.json":{"The redhead dropped a key after our romp in the chapel. I thought I could use it to enter Sofia’s mansion. But it didn’t work.":
+"我们在教堂里嬉戏 之后，红发人掉了 一把钥匙。我想我 可以用它进入索菲 亚的豪宅。但它不 起作用。",
+"???":
+"???"},"Map182.json":{"Casualty Report April 1999":
+"1999年4月 伤亡报告",
+"Insurance Claims:\\fb $46.2 Million<br>\\fbInjury Claims:\\fb 16 report":
+"索赔报告：\\fb 4620万美元<br>\\fb受伤报告：\\fb 16个",
+"Fatality Claims:\\fb None":
+"死亡报告：\\fb 无",
+"Missing Persons Records April 1999":
+"1999年4月 失踪人员记录",
+"Missing Persons Records May 1999":
+"1999年5月 失踪人员记录",
+"Missing Persons Records June 1999":
+"1999年6月 失踪人员记录",
+"Missing Persons Records July 1999":
+"1999年7月 失踪人员记录",
+"No missing persons reported in Cape Vedra":
+"维德拉角没有失踪 人员报告"},"Map184.json":{"I took a magical trip that dead ends deep in the jungle.":
+"我进行了一次神奇 的旅行，在丛林深 处走到了尽头。",
+"I walked six paces south and buried my treasure.":
+"我往南走了六步， 埋下了我的财宝。 "},"Map185.json":{"A circle on the ground at the temple’s entrance, like a clock,":
+"神庙入口处地面上 的一个圆圈，像一 个时钟，",
+"the head marks noon and at seven I’ve buried my treasure.":
+"当指针指向七点时 ，我埋了我的财宝 。"},"Map186.json":{"Blonde - uldlu":
+"金发-女郎",
+"Red - ruru":
+"红发-女郎",
+"Brunette - dluu":
+"黑发-女郎",
+"Nitroglycerin":
+"硝酸甘油"},"Map194.json":{"I buried the compass with the priest. No other man has the will to take this holy relic.":
+"我把指南针埋在牧 师那里。没有人愿 意拿走这件圣物。 ",
+"I could not imagine a life without the desire of the flesh.":
+"我无法想象没有肉 体欲望的生活。"},"Map196.json":{"God's Shovel":
+"上帝的铲子"},"Map197.json":{"A pile of rocks in an older sewer’s north juncture,":
+"旧下水道北口的一 堆石头，",
+"a wall to the west in which you can puncture.":
+"你可以凿破西边的 一堵墙。"},"Map198.json":{"Secrets of the Cape Vedra Mansion":
+"维德拉角豪宅的秘 密",
+"It is said that a key has been sealed under the floorboards on the 3rd floor. A mystery worthy of mention in publication.":
+"据说三楼的地板下 有一把钥匙被密封 了。一个值得在刊 报中提及的谜。"},"Map199.json":{"My fish story...":
+"我的钓鱼故事.. .",
+"Today I ran out of bait. I used a key as a lure and a TUNA ate it! Too bad he broke the line. I wonder what that key was used for?":
+"今天我的鱼饵用完 了。我用一把钥匙 当诱饵，一条金枪 鱼把它吃了！可惜 他把线弄断了。我 想知道那把钥匙是 用来干什么的？"}}

@@ -1,0 +1,5 @@
+{"0=Is someone at the door?]":"0=有人在门口吗 ？]",
+"1=Is Kaley back?]":"1=凯莉回来了吗 ？]",
+"2=She doesn’t ring the doorbell.]":"2=她没有按门铃 。]",
+"3=Toothbrush]":"3=牙刷]",
+"4=Nail Polish Remover]":"4=指甲油去除剂 ]"}

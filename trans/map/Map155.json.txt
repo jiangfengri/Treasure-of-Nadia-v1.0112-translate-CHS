@@ -1,0 +1,12 @@
+{"0=Philweed Plant]":"0=飞蓬草]",
+"1=Fan Palm Leaf]":"1=扇形棕榈叶] ",
+"2=The rock here looks weak and crumbly.]":"2=此处的岩石看 起来很脆弱且易碎 。]",
+"3=Mysterious Key]":"3=神秘钥匙]",
+"4=How am I going to get past that jaguar?]":"4=我要如何通过 那美洲豹？]",
+"5=Oh shit! I’m boxed in...]":"5=哦，该死！我 被困在…]",
+"6=I’ve got the loaded musket!]":"6=我有上膛的步 枪！]",
+"7=Missed again...]":"7=再次错过…] ",
+"8=At least it’s gone... For now.]":"8=至少它不见了 。。。目前为止。 ]",
+"9=Clover Leaf]":"9=三叶草叶]",
+"10=The rock here looks weak and crumbly.]":"10=这里的岩石 看起来脆弱易碎。 ]",
+"11=Mysterious Key]":"11=神秘钥匙] "}
