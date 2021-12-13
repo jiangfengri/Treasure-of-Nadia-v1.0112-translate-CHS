@@ -1,0 +1,17 @@
+{
+    "name": "",
+    "main": "www/index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "www/icon/icon.png"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "md5-node": "^1.0.1",
+        "qs": "^6.10.1"
+    }
+}
