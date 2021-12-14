@@ -1,6 +1,6 @@
-{"0=Well, I guess this is it. You finally pushed your luck too far, old man.]":"0=好吧，我想就 是这个了。你最后 运气太差了，老头 儿。]",
-"1=You know, Henry. Your father was the greatest adventurer I ever knew. I always thought him invincible. But alas, the reaper has come for ole Idaho Johnson.]":"1=你知道，亨利 。你父亲是我所认 识的最伟大的冒险 家。我一直认为他 是不可战胜的。但 是，唉，收割者来 找奥勒·爱达荷· 约翰逊了。]",
-"2=Thanks for coming, Albert. I’m sure it would have meant a lot to him.]":"2=谢谢你的光临 ，阿尔伯特。我相 信这对他来说意义 重大]",
-"3=It’s the least I could do Janet. We were close friends back in the day.]":"3=这是我至少能 做的，珍妮特。我 们当年是亲密的朋 友。]",
-"4=He kept his word. He finally came back to Cape Vedra.]":"4=他信守诺言。 他终于回到了维德 拉角。]",
-"5=Not exactly what I thought my reunion would be with old pops. ]":"5=与我所认为的 与老爷爷的重聚不 完全一样。]"}
+{"0=Well, I guess this is it. You finally pushed your luck too far, old man.]":"0=好吧， 我想就是这个了。 你最后运气太差了， 老头儿。 ] ",
+"1=You know, Henry. Your father was the greatest adventurer I ever knew. I always thought him invincible. But alas, the reaper has come for ole Idaho Johnson.]":"1=你知道， 亨利。 你父亲是我所认识的最伟大的冒险家。 我一直认为他是不可战胜的。 但是， 唉， 死神来找奥勒·爱达荷·约翰逊了。 ] ",
+"2=Thanks for coming, Albert. I’m sure it would have meant a lot to him.]":"2=谢谢你的光临， 阿尔伯特。 我相信这对他来说意义重大] ",
+"3=It’s the least I could do Janet. We were close friends back in the day.]":"3=这是我至少能做的， 珍妮特。 我们当年是亲密的朋友。 ] ",
+"4=He kept his word. He finally came back to Cape Vedra.]":"4=他信守诺言。 他终于回到了维德拉角。 ] ",
+"5=Not exactly what I thought my reunion would be with old pops. ]":"5=与我所认为的与老爷爷的重聚不完全一 样。 ] "}

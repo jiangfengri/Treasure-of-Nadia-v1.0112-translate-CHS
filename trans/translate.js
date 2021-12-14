@@ -14,7 +14,7 @@ let bdkey = '你的百度翻译api key'
 // 加载本地map：加载
 everyFileoffline()
 
-// 美化本地map并保存，美化后会影响内容！！！还要改map
+// 美化本地map并保存，美化后可能影响内容，检查map
 // beautyMapOffline()
 
 
@@ -55,7 +55,7 @@ function beautyMapOffline() {
   
 }
 
-// 移除空格，每8个加空格，没有的加num= ] 】换成]
+// 移除空格，没有的加num= ] 】换成]，再美化value
 function beautyMap(map) {
   Object.getOwnPropertyNames(map).forEach(key => {
     // 先移除value中空格
@@ -70,9 +70,26 @@ function beautyMap(map) {
     } else if(lastChar !=']') {
       map[key] = map[key]+']'
     }
-    // 再添加空格
-    map[key] = map[key].replace(/\S{8}/g,'$& ')
+    // 美化value：，。？！：；、]后加空格，同时，里面太长加空格(17)
+    map[key] = beautyValue(map[key])
   })
+}
+
+// 1. 先移除num=
+// 2. 有]保证当作最后一个标点
+function beautyValue(value){
+  let num = parseInt(value)
+  value = value.slice((num+'=').length)
+  let pattern = /([^，。？！：；、]*?)[，。？！：；、\]]/g
+  value = value.replace(pattern, (match, p1)=> {
+    // match后加空格
+    let innerStr = p1
+    let symbol = match.slice(innerStr.length) + ' '
+    // p1里太长加空格：17
+    p1 = p1.replace(/.{17}/g, '$& ')
+    return p1 + symbol
+  })
+  return num + '=' + value
 }
 
 

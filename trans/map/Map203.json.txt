@@ -1,2 +1,2 @@
-{"0=Torn Page - Green]":"0=撕破的页面- 绿色]",
-"1=Photo: Tasha in the Jungle]":"1=照片：丛林中 的塔莎]"}
+{"0=Torn Page - Green]":"0=撕破的页面-绿色] ",
+"1=Photo: Tasha in the Jungle]":"1=照片： 丛林中的塔莎] "}

@@ -1,9 +1,9 @@
-{"0=Aloe Plant]":"0=芦荟植物]",
-"1=The gap is too large to cross.]":"1=间隙太大，无 法穿过。]",
-"2=The gap is too large to cross.]":"2=间隙太大，无 法穿过。]",
-"3=The gap is too large to cross.]":"3=间隙太大，无 法穿过。]",
-"4=The rock here looks weak and crumbly.]":"4=这里的岩石看 起来脆弱易碎。] ",
-"5=Chest Key]":"5=箱子钥匙]",
-"6=Tomb Key Segment]":"6=墓穴钥匙碎片]",
-"7=Clover Leaf]":"7=三叶草叶]",
-"8=It’s too heavy to open.]":"8=太重，无法打 开。]"}
+{"0=Aloe Plant]":"0=芦荟植物] ",
+"1=The gap is too large to cross.]":"1=间隙太大， 无法穿过。 ] ",
+"2=The gap is too large to cross.]":"2=间隙太大， 无法穿过。 ] ",
+"3=The gap is too large to cross.]":"3=间隙太大， 无法穿过。 ] ",
+"4=The rock here looks weak and crumbly.]":"4=这里的岩石看起来脆弱易碎。 ] ",
+"5=Chest Key]":"5=箱子钥匙] ",
+"6=Tomb Key Segment]":"6=墓穴钥匙碎片] ",
+"7=Clover Leaf]":"7=三叶草叶] ",
+"8=It’s too heavy to open.]":"8=太重， 无法打开。 ] "}

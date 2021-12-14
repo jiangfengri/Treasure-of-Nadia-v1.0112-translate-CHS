@@ -1,2 +1,2 @@
-{"0=Broken Key]":"0=损坏的钥匙]",
+{"0=Broken Key]":"0=损坏的钥匙] ",
 "1=God's Shovel Head]":"1=上帝的铲头] "}

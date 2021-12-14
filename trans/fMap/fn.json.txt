@@ -47,7 +47,7 @@
 "The true captain would never have allowed this to happen. Why did we come to this place? We should have turned and done battle with the shamans.":
 "真正的队长绝不会 允许这种事情发生 。我们为什么会来 到这个地方？我们 应该转身和萨满战 斗。",
 "Long live the pirate queen Nadia. Tonight we rain fire onto the city of Tikpak. Their fortune will soon be ours.":
-"海盗女王娜迪亚万 岁。今晚我们向提 帕克市开火。他们 的财产很快就会归 我们所有。",
+"海盗女王纳迪亚万 岁。今晚我们向 Tikpak开火。 他们的财产很快就 会归我们所有。",
 "Silver Talisman Crafting":
 "银护身符工艺",
 "Silver Talisman":
@@ -99,7 +99,7 @@
 "To all my rivals, I have included a photograph of my giant cock. Suck it!":
 "对于我的所有竞争 对手，我已经附上 了一张我的大公鸡 的照片。吸它！",
 "Sincerely, Idaho Johnson":
-"真挚的，爱达荷州 约翰逊"},"Map007.json":{"Rebuilding efforts continue":
+"真挚的，爱达荷· 约翰逊"},"Map007.json":{"Rebuilding efforts continue":
 "重建工作仍在继续 ",
 "As the one year anniversary approaches of Hurricane Evelyn surrounding cities still struggle to overcome the damage.":
 "随着飓风伊夫林一 周年的临近，周边 城市仍在努力克服 破坏。",

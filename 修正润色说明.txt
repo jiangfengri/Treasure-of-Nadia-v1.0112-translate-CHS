@@ -1,3 +1,45 @@
+v8 map更换了新的换行方式，无效的空格很少。
+
+	"8410=KtPaC#l.Oh, Valerie! He’s fingering my pussy!]":"8410=KtPaC#l.噢， 瓦莱丽！ 他！ ] ",
+	
+	Henry 亨利
+	Daemalius 代马利厄斯
+	Kaley  凯莉 卡利 凯利
+	Alia 艾莉亚 阿里娅 阿利亚 艾丽娅 阿里亚 爱丽亚 艾丽亚 阿里
+	Naomi 娜奥米 内奥米 纳奥米
+	Tasha 塔莎
+	Sam 山姆 萨姆
+	Michael 迈克尔
+	Emily 艾米丽 艾米莉
+	Sofia 索菲亚 索非亚
+	Janet 珍妮特
+	Pricia 普里西亚
+	Jessica 杰西卡
+	Squallmart 狂风市场 斯奎尔马特 斯夸尔马特
+	Estero Key  埃斯特罗岛 转到
+	Madalyn 麦达琳 马达林 马达琳 玛达琳
+	Diana 戴安娜 黛安娜
+	Clare 克莱尔
+	Joey and Corn  乔伊  科恩 玉米
+	Nadia 纳迪亚 娜迪亚
+	Ash 阿什 火山灰 
+	Albert  阿尔伯特 艾伯特
+	Duncan 邓肯
+	Evie 艾薇
+	Brad 布拉德 Bradley 布拉德利
+	Valerie 瓦莱丽
+	Vlad 弗拉德
+	Zayana  扎亚娜
+	Jim 吉姆
+	Bancroft 班克罗夫特
+	Simon 西蒙
+	Judy 朱迪
+	Idaho 爱达荷 爱达荷州
+	Tikpak
+	Aakab Kaako
+	Night Fire Pirates 夜火海盗
+	Caulli 考利
+	
 
 v7 
 	除了修bug不会再汉化其它未汉化的了。

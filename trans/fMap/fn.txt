@@ -73,7 +73,7 @@
 	"真正的队长绝不会允许这种事情发生。 我们为什么会来到这个地方？ 我们应该转身和萨满战斗。",
 	
 	"Long live the pirate queen Nadia. Tonight we rain fire onto the city of Tikpak. Their fortune will soon be ours.":
-	"海盗女王娜迪亚万岁。今晚我们向提帕克市开火。他们的财产很快就会归我们所有。",
+	"海盗女王纳迪亚万岁。今晚我们向提帕克市开火。他们的财产很快就会归我们所有。",
 
 	"Silver Talisman Crafting":
 	"银护身符工艺",
@@ -157,7 +157,7 @@
 	"对于我的所有竞争对手，我已经附上了一张我的大公鸡的照片。 吸它！",
 	
 	"Sincerely, Idaho Johnson":
-	"真挚的，爱达荷州约翰逊"
+	"真挚的，爱达荷·约翰逊"
 	
 },
 "Map007.json": {

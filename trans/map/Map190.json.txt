@@ -1,2 +1,2 @@
-{"0=The rock here looks weak and crumbly.]":"0=此处的岩石看 起来很脆弱且易碎 。]",
-"1=Chest Key]":"1=箱子钥匙]"}
+{"0=The rock here looks weak and crumbly.]":"0=此处的岩石看起来很脆弱且易碎。 ] ",
+"1=Chest Key]":"1=箱子钥匙] "}

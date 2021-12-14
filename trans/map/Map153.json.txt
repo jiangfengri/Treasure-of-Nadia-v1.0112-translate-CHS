@@ -1,3 +1,3 @@
-{"0=Janet]":"0=Janet]",
-"1=Pussy Play]":"1=Pussy Play]",
-"2=Another skeleton. Must be a pirate.]":"2=另一个骨架。 一定是海盗。]"}
+{"0=Janet]":"0=珍妮特] ",
+"1=Pussy Play]":"1=PussyPlay] ",
+"2=Another skeleton. Must be a pirate.]":"2=另一个骨架。 一定是海盗。 ] "}

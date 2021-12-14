@@ -15,7 +15,7 @@ let bdkey = '你的百度翻译api key'
 // 加载本地map：加载
 everyFileoffline()
 
-// 美化本地map并保存，美化后会影响内容！！！还要改map
+// 美化本地map并保存：这里美化只是确保num=和]，不需要加空格
 // beautyMapOffline()
 
 

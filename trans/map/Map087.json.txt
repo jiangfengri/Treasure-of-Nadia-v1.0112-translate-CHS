@@ -1,1 +1,1 @@
-{"0=Nail Polish Remover]":"0=指甲油去除剂 ]"}
+{"0=Nail Polish Remover]":"0=指甲油去除剂] "}
