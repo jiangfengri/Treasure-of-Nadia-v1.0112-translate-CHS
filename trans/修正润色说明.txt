@@ -1,0 +1,167 @@
+v8 map更换了新的换行方式，无效的空格很少。
+
+	保持原英文：
+		"8410=KtPaC#l.Oh, Valerie! He’s fingering my pussy!]":"8410=KtPaC#l.噢， 瓦莱丽！ 他！ ] ",
+	润色：
+		Henry 亨利
+		Daemalius 代马利厄斯
+		Kaley  凯莉 卡利 凯利
+		Alia 艾莉亚 阿里娅 阿利亚 艾丽娅 阿里亚 爱丽亚 艾丽亚 阿里
+		Naomi 娜奥米 内奥米 纳奥米
+		Tasha 塔莎
+		Sam 山姆 萨姆
+		Michael 迈克尔
+		Emily 艾米丽 艾米莉
+		Sofia 索菲亚 索非亚
+		Janet 珍妮特
+		Pricia 普里西亚
+		Jessica 杰西卡
+		Squallmart 狂风市场 斯奎尔马特 斯夸尔马特
+		Estero Key  埃斯特罗岛 转到
+		Madalyn 麦达琳 马达林 马达琳 玛达琳
+		Diana 戴安娜 黛安娜
+		Clare 克莱尔
+		Joey and Corn  乔伊  科恩 玉米
+		Nadia 纳迪亚 娜迪亚
+		Ash 阿什 火山灰 
+		Albert  阿尔伯特 艾伯特
+		Duncan 邓肯
+		Evie 艾薇
+		Brad 布拉德 Bradley 布拉德利
+		Valerie 瓦莱丽
+		Vlad 弗拉德
+		Zayana  扎亚娜
+		Jim 吉姆
+		Bancroft 班克罗夫特
+		Simon 西蒙
+		Judy 朱迪
+		Idaho 爱达荷 爱达荷州
+		Tikpak
+		Aakab Kaako
+		Night Fire Pirates 夜火海盗
+		Caulli 考利
+	
+v6&v7 卷轴全部汉化
+	新增：
+		chest卷轴：chest名字--卷轴名字--组合物品名字（取item.json中的名字）
+		地图卷轴：卷轴名字--组合物品名字（取item.json中的名字）
+
+v5 
+	新增：
+		对有\\fn这种指明字体的文本的翻译，对json进行直接修改（较为危险），会涉及到卷轴，报纸书籍，部分地图提示。
+	润色：
+		Mansion 豪宅
+		Fine 好
+		cum 高潮 要射了 精液 射精 要高潮了
+		=cum
+		release  释放
+		no 否
+		毫米
+		立方米
+		package
+		ok 正常
+		磨损
+v4 麦达琳身世润色
+	润色：
+		Daemalius 是个大恶魔
+		vessels 容器
+		cambion 坎比安，指半人半妖，无灵魂的人
+		Zayana Alia的另一个名字 扎亚娜
+		Alia 翻译修正
+v3:
+	润色：
+		"79=Gaffer Tape]":"79=厚胶布]",
+		"122=Maca Plant]":"122=马卡植物]",
+		Essence of Key=>钥匙精华
+		"52=Philweed]":"52=飞蓬草]",
+		"306=King's Offering Chip]":"306=王之祭品碎片]",
+		Ash]":"62=阿什！
+		Full Mast bar.] 全桅酒吧
+		29=Mother Superior]":"29=女修道院院长]",
+		"110=Secret Key]":"110=秘密钥匙]",
+		"176=Tikpak Tablet]":"176=Tikpak石碑]",
+		Aakab Kaako => Aakab Kaako
+		Casula => 卡苏拉
+		提 克帕克
+		蒂克帕克
+		蒂帕克      => Tikpak
+		提帕克
+		提卡
+		提帕
+		"158=Hidden Key]":"158=隐藏的钥匙]",
+		"161=Dart]":"161=飞镖]",
+		"184=Crypt Key]":"184=地下室钥匙]",
+		"190=Rosa Moss]":"190=蔷薇苔藓]",
+		"258=Storage Key]":"258=存储室钥匙]",
+		Jaguar 美洲豹
+
+v2:
+	保持原英文：
+		"5305=House-MasterBedroom]":"5305=House-MasterBedroom]",==>保持原样
+	更改了loadmap()的逻辑，应该不会出现重复台词了。
+	\dfriend 强制定为朋友
+
+
+v1:
+	保持原英文：
+		0. $ + 程序运算相关
+			只有commonevent中有几个
+
+		1. 由于正则的不完备性，和美化加空格的操作，需要将意义为命令，或文件名保持原英文，有以下：
+			"39=He,Wo,Op<.I shouldn't be here. I better leave.]":"39=他，我，我不应该在这里。我最好离开]",
+				009文件
+			"392=SmAnExI saw it! There is another way to that body. You don’t need to use my yard.]":"392=我看到了！还有另一种方法可以到达那个 身体。你不需要使用我的院子。]",
+				009文件
+			"1639=Ab,Fr,Op.G'day.]":"1639=Ab、Fr、Op.G'日。]"
+				033文件
+							
+			"289=HewoOp.What were you two girls planning on doing in here?]":"289=HewoOp.你们两个女孩打算在这里 干什么？]",
+				045文件	
+			"327=SmAnOp> .What makes you think that man isn’t running around town looking for you now?]":"327=SmAnOp>。你凭什么认为那个人现 在没有在城里到处找你？]",
+				147文件
+			另有commonevent文件下的一大片命令：
+				"1391=He,An,Op.Hey.]":"1391=He, An,Op.He y.]",
+				...下面一片...
+			commonevent
+					地点：保持原英文
+						"23=BeachSunset]":"23=BeachSunset]",
+						...下面一片...
+					人物：保持原英文
+						"1052=HeroWet]":"1052=湿的]",
+						...下面一片...
+						"3087=Aged]":"3087=Aged]",
+						...下面一片...
+						"8695=KatNude]":"8695=KatNude]",
+						...下面一片...
+						"8938=Idaho]":"8938=Idaho]",
+					物品名：可被翻译
+					人和人(合成的3人爱经)：可被翻译
+					对话：可被翻译
+			其他json
+				{"0=PopUp-xxx]":"0=PopUp-Arrow]"：保持原英文
+				人物名：用作爱经上面的名字，可被翻译
+				爱经名：可被翻译。
+				物品名：可被翻译。
+				照片：可被翻译
+				xx个人资料：可被翻译
+				xx撕破的页面：可被翻译
+	润色：
+		"197=Psst. Henry. Come here.]":"197=嘘。亨利。到这里来。】",
+			022文件，命令无关，语气词
+		"40=Aww. Come on, Henry. You don’t want to keep me in the dark do you?]":"40=哇哦。来吧，亨利。你不想让我蒙在鼓里 吧？]",
+			020 084 commonevent文件，命令无关，语气词
+		"138=Arg!]":"138=哦！]"}
+			010 020 032 033 089 158 167 commonevent文件，命令无关，语气词
+		"305=Hmf.]":"305=Hmf。]",
+			033 147文件，命令无关，语气词，不知咋翻译
+		"22=Pst!...]":"22=Pst！…]",
+			009 019 027 044 048 commonevent文件，命令无关，语气词，不知咋翻译
+		estero key相关 -> estero key （Alia所住的小岛名）
+		胸部钥匙 -> 箱子钥匙
+		xx键 -> xx钥匙
+		"7=Dart Board]":"7=圆靶]"
+		"2039=Algae Shock]":"2039=藻类药剂]"
+			
+		
+
+
