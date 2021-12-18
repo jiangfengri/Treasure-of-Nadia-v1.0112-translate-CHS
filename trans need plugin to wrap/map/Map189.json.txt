@@ -1,0 +1,12 @@
+{"0=Henry!]":"0=亨利！]",
+"1=Oh, shit. I didn’t know you’d be naked.]":"1=哦，该死。我不知道你会裸体。]",
+"2=This is hardly the first time you’ve seen my body.]":"2=这不是你第一次看到我的身体。]",
+"3=Should you look different? You did just get cured from your curse. Right?]":"3=你应该看起来不一样吗？你的诅咒刚被治愈。对吧？]",
+"4=The payment is ready.]":"4=付款准备就绪。]",
+"5=Give us a moment.]":"5=给我们一点时间。]",
+"6=Duncan is here... So is the thief.]":"6=邓肯在这里。。。小偷也是]",
+"7=Diana?]":"7=戴安娜？]",
+"8=Shit. Let’s move now. I don’t want any hiccups.]":"8=狗屎。我们现在就走。我不想打嗝。]",
+"9=I look forward to being able to travel again.]":"9=我期待能够再次旅行。]",
+"10=Alia and I have a lot to catch up on.]":"10=艾莉亚和我还有很多事情要赶。]",
+"11=Torn Page - Green]":"11=撕破的页面-绿色]"}

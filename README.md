@@ -80,4 +80,18 @@ Treasure of Nadia v1.0112版本的汉化程序，文档
 
 
 
+## trans need plugin to wrap
+
+移除美化中加空格的策略，使用修改版插件`YEP_MessageCore.js`来帮助换行，
+
+- 把`YEP_MessageCore.js`替换掉原来`www/js/plugins/YEP_MessageCore.js`
+
+- 确保`www/js/plugins.js`中`YEP_MessageCore`的`parameters`中有`"Word Wrapping":"true"`即可
+
+该插件支持了中文换行，但英文的换行会退化成字母换行。
+
+https://github.com/XMandarava/Plugins4RMMV/tree/master/modified
+
+ 
+
 

@@ -1,0 +1,6 @@
+{"0=It looks like this door can be opened.]":"0=看起来这扇门可以打开。]",
+"1=It looks like this door can be opened.]":"1=这扇门似乎可以打开。]",
+"2=Clare]":"2=克莱尔]",
+"3=Face Fuck]":"3=面交]",
+"4=This must be Diego de la Cruz from the diaries.]":"4=这一定是日记中的迭戈·德拉克鲁兹。]",
+"5=I better not let Albert know there is a skeleton in his basement. I don’t think he can handle it.]":"5=我最好不要让阿尔伯特知道他的地下室里有一具骷髅。我认为他处理不了这件事]"}

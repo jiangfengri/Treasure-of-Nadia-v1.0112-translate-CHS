@@ -1,0 +1,12 @@
+{"0=Madalyn?]":"0=麦达琳？]",
+"1=What are you doing?]":"1=你在干什么？]",
+"2=Oh, shit! Was that even real?]":"2=哦，该死！那是真的吗？]",
+"3=That climax sure as hell felt real.]":"3=那高潮确实让人感觉真实。]",
+"4=Madalyn still needs me for something... but what is her goal?]":"4=麦达琳还需要我做点什么。。。但她的目标是什么？]",
+"5=She was telling the truth! There’s a strange compass in here.]":"5=她说的是实话！这里有一个奇怪的指南针]",
+"6=Does that mean that I’m doomed to celibacy if I take it?]":"6=这是否意味着如果我接受它，我注定要独身？]",
+"7=If this thing can help me find a way under the lighthouse, I’ll just have to risk it.]":"7=如果这东西能帮我找到灯塔下的路，我就得冒险了。]",
+"8=It’s too heavy to move and I don't want to destroy it. I need to think of a better way to open this.]":"8=它太重，无法移动，我不想破坏它。我需要想一个更好的方法来打开这个。]",
+"9=Priest’s Compass]":"9=牧师指南针]",
+"10=It’s too heavy to move and I don't want to destroy it. I need to think of a better way to open this.]":"10=它太重，无法移动，我不想破坏它。我需要想一个更好的方法来打开这个。]",
+"11=Priest’s Compass]":"11=牧师指南针]"}

@@ -1,0 +1,6 @@
+{"0=It's Locked.]":"0=已锁定。]",
+"1=I need to grab the drinks from the bar first.]":"1=我需要先从酒吧拿饮料。]",
+"2=Pst. Henry. Over here.]":"2=Pst.亨利。在这里。]",
+"3=Naomi! That’s the women’s restroom.]":"3=娜奥米！那是女厕所。]",
+"4=I’m not going in the men’s restroom.]":"4=我不去男厕所。]",
+"5=What does she have in mind now? She’s going to get me into trouble.]":"5=她现在在想什么？她会给我带来麻烦的]"}

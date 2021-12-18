@@ -1,0 +1,9 @@
+{"0=It’s a badly decayed dead body...]":"0=这是一具严重腐烂的尸体…]",
+"1=Who was down here?]":"1=谁在下面？]",
+"2=This rock looks loose... like it’s been moved recently.]":"2=这块岩石看起来松了。。。就像最近被搬走一样。]",
+"3=Holy shit! It’s a dead body!]":"3=天哪！这是一具尸体！]",
+"4=What the hell is going on?... Who is that?]":"4=到底发生了什么事？。。。那是谁？]",
+"5=I should get out of here.]":"5=我应该离开这里。]",
+"6=It’s too heavy. I need some leverage.]":"6=它太重了。我需要一些筹码]",
+"7=Torn Page - Orange]":"7=撕破的页面-橙色]",
+"8=Photo: Madalyn's Pussy]":"8=照片：麦达琳的阴部]"}

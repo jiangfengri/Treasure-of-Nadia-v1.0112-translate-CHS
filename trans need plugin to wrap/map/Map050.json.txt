@@ -1,0 +1,9 @@
+{"0=What a dingy attic space. I bet a lot of this stuff has been here since the bar was built.]":"0=多么肮脏的阁楼空间啊。我敢打赌，自从酒吧建成以来，这里就有很多这样的东西]",
+"1=Looks like this pipe is loose and the water is coming out. This should be an easy fix.]":"1=看起来这根管子松了，水出来了。这应该是一个简单的解决方法。]",
+"2=That should do it. The pipe seems to be holding water now.]":"2=应该可以。这根管子现在似乎能装水了]",
+"3=Carbon Shovel Shaft]":"3=碳铲轴]",
+"4=Naomi]":"4=娜奥米]",
+"5=Titfuck]":"5=Titfuck]",
+"6=Chest Key]":"6=箱子钥匙]",
+"7=Dart Board]":"7=圆靶]",
+"8=This will look great in my bonus room.]":"8=这将在我的奖励室中看起来很棒。]"}

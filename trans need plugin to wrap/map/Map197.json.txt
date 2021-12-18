@@ -1,0 +1,9 @@
+{"0=Super Guide]":"0=超级指南]",
+"1=You can now find even rarer talismans more easily.]":"1=您现在可以更轻松地找到更稀有的护身符。]",
+"2=Janet]":"2=珍妮特]",
+"3=Blowjob]":"3=口交]",
+"4=Janet]":"4=珍妮特]",
+"5=Blowjob]":"5=口交]",
+"6=It’s too heavy to open.]":"6=太重，无法打开。]",
+"7=Ah... It’s nice and warm up here. ]":"7=啊。。。这里天气很好，也很暖和]",
+"8=I feel better already!]":"8=我已经感觉好多了！]"}

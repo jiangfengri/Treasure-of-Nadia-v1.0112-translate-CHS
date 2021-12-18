@@ -1,0 +1,4 @@
+{"0=Pricia]":"0=Pricia]",
+"1=On Top]":"1=OnTop]",
+"2=Broken Key]":"2=损坏的钥匙]",
+"3=Gothic Chest Key]":"3=哥特式箱子钥匙]"}
