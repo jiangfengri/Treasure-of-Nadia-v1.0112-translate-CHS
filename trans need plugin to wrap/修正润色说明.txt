@@ -1,4 +1,5 @@
 因为使用额外插件来帮助换行，不需要在美化后审查空格带来的影响。但仍要审查翻译Api带来的影响。
+引用插件地址：https://github.com/XMandarava/Plugins4RMMV/tree/master/modified
 
 v8 移除换行策略，使用插件换行
 
