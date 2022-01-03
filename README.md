@@ -94,4 +94,7 @@ https://github.com/XMandarava/Plugins4RMMV/tree/master/modified
 
  
 
+## 汉化结果
+
+移步：https://steamcommunity.com/app/1737100/discussions/0/3196990234728608787/
 
